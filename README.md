@@ -8,8 +8,18 @@ Otherwise, I'm...
 * 🎥 Creating and Editing [YouTube videos]https://www.youtube.com/channel/UCnJ6CfzphMGJwHgUEi-CW-w
     
 ## 🚀 Some Cool Projects
+#### 🌎
 
 #### Feel free to explore these projects and dive into the code. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out.
+
+
+## 🪚 Tools & Languages
+
+### Coding
+* C#,C++,C
+* Javascript
+* dart
+* Flutter, VisualStudio Code, XCode
 
 ## 🔗 Connect
 ✉️ reuben.j.thorn@icloud.com
