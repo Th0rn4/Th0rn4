@@ -9,6 +9,7 @@ Otherwise, I'm...
     
 ## 🚀 Some Cool Projects
 #### 🌎
+[![View](https://img.shields.io/badge/-View-lightgrey)](https:)
 
 #### Feel free to explore these projects and dive into the code. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out.
 
