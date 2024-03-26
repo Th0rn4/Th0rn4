@@ -1,7 +1,7 @@
 # Hello! I'm Reuben 👋
 
 [comment]: <> (# Hello! I'm <img src='Resources/Ge_keys.gif' width='37' margin-top='10'>euben👋)
-I'm a passionate and creative IT student at NWU Potchefstroom. I love coding, building cool projects, and exploring new technologies.
+I'm a passionate and creative Bsc IT student at NWU Potchefstroom. I love coding, building cool projects, and exploring new technologies and ideas.
 
 Otherwise, I'm...
 
