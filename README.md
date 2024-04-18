@@ -8,8 +8,10 @@ Otherwise, I'm...
 * 🎥 Creating and Editing [YouTube videos]https://www.youtube.com/channel/UCnJ6CfzphMGJwHgUEi-CW-w
     
 ## 🚀 Some Cool Projects
-#### 🕒 Flow Timers
-[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/Flow-Timers)
+#### ☑️ Minimalist ToDo App
+A minimalists dream to get things done throughout the day! A very Simple To-Do App with a search function, can be used for simple To-Does or just another day doing gorceries.
+
+[![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/MinimalToDo)
 
 #### Feel free to explore these projects and dive into the code. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out.
 
