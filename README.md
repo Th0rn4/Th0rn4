@@ -14,6 +14,9 @@ Otherwise, I'm...
 #### ⛅️ Weather App [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/MinimalWeatherApp)
 - Weather App made to play around with API's, how to read them ext, Simple weather app that uses info.plist file to allow for the phone to ask for the users location. The app uses the users location to detrmine the current temperature, the maximum temp as well as the minimum temp and some extra things.
 
+#### 🎴 Simple Flip Flashcard App [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/simple-flip-flashcards)
+- An extremly simple app, where I experemented with basic animations within dart. You can add several flashcards that you can scroll through and study, each flash card has a fun flipping animation to reveal the answers to the users questions.
+
 
 #### Feel free to explore these projects and dive into the code. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out.
 
