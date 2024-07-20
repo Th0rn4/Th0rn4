@@ -8,6 +8,10 @@ Otherwise, I'm...
 * 🎥 Creating and Editing [YouTube videos]https://www.youtube.com/channel/UCnJ6CfzphMGJwHgUEi-CW-w
     
 ## 🚀 Some Cool Projects 
+
+#### 🖥️ SM Files [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/simple-mac-files)
+- I developed an app to help organize my Mac files during lectures and video editing. Simply select where you want to store any file type, and the app will ensure it gets saved to the designated location without any hassle.
+  
 #### ☑️ Minimalist ToDo App [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/MinimalToDo)
 - A minimalists dream to get things done throughout the day! A very Simple To-Do App with a search function, can be used for simple To-Does or just another day doing gorceries.
 
@@ -17,9 +21,6 @@ Otherwise, I'm...
 #### 🎴 Simple Flip Flashcard App [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/simple-flip-flashcards)
 - An extremly simple app, where I experemented with basic animations within dart. You can add several flashcards that you can scroll through and study, each flash card has a fun flipping animation to reveal the answers to the users questions.
 
-
-#### 🖥️ SM Files [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/simple-mac-files)
-- I developed an app to help organize my Mac files during lectures and video editing. Simply select where you want to store any file type, and the app will ensure it gets saved to the designated location without any hassle.
 
 
 #### Feel free to explore these projects and dive into the code. If you have any questions, collaboration ideas, or just want to connect, don't hesitate to reach out.
