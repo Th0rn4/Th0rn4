@@ -39,4 +39,6 @@ Otherwise, I'm...
 
 💼 [LinkedIn]https://www.linkedin.com/in/reuben-thorn-8383371a3/
 
+## 👾 GitHub Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th0rn4)](https://github.com/anuraghazra/github-readme-stats)
