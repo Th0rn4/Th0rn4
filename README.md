@@ -12,8 +12,8 @@ Otherwise, I'm...
 #### 🖥️ SM Files [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/simple-mac-files)
 - I developed an app to help organize my Mac files during lectures and video editing. Simply select where you want to store any file type, and the app will ensure it gets saved to the designated location without any hassle.
   
-#### ☑️ Minimalist ToDo App [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/MinimalToDo)
-- A minimalists dream to get things done throughout the day! A very Simple To-Do App with a search function, can be used for simple To-Does or just another day doing gorceries.
+#### 🎬 Video Uploading and Streaming application [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/BoS-CMPG323)
+- Designed and developed a video uploading and streaming application, implemented using React which resulted in a full stack MERN application that was deployed and granted a 90% average at NWU.
 
 #### ⛅️ Weather App [![View](https://img.shields.io/badge/-View-lightgrey)](https://github.com/Th0rn4/MinimalWeatherApp)
 - Weather App made to play around with API's, how to read them ext, Simple weather app that uses info.plist file to allow for the phone to ask for the users location. The app uses the users location to detrmine the current temperature, the maximum temp as well as the minimum temp and some extra things.
